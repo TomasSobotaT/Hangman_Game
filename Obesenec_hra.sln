@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obesenec_hra", "Obesenec_hra\Obesenec_hra.csproj", "{C623248E-43A9-497A-87E1-94112A19FF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C623248E-43A9-497A-87E1-94112A19FF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C623248E-43A9-497A-87E1-94112A19FF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C623248E-43A9-497A-87E1-94112A19FF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C623248E-43A9-497A-87E1-94112A19FF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C430B2D4-E4A6-499A-BA1D-7457740A40C2}
+	EndGlobalSection
+EndGlobal
